@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React, React Native, UI/UX**
 
-- 👨‍💻 All of my projects are available at [https://portofolio-swagat-shrestha.vercel.app/](https://portofolio-swagat-shrestha.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://www.swagatshrestha.com.np](https://www.swagatshrestha.com.np)
 
 - 💬 Ask me about **ReactJs, NodeJs, UI/UX**
 
