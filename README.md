@@ -1,4 +1,4 @@
-<img src="https://media.istockphoto.com/id/1167600197/vector/front-end-development-web-banner-concept.jpg?s=170667a&w=0&k=20&c=eNl3Wt4rDh1KPUIP5AX4TkmaEk1K_9CMxDjlu5kR2mE=" width="100%" />
+
 <h1 align="center">Hi 👋, I'm Swagat Shrestha</h1>
 <h3 align="center">Crafting Seamless User Experiences as Frontend Developer.</h3>
 
